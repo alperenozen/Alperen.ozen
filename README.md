@@ -23,13 +23,14 @@ The cryptocurrency market is highly volatile, and meme coins often experience su
 The data required for this project will be collected from the following sources:
 
 1. **Bitcoin Price (BTC):**
-   - Data on the daily closing price of Bitcoin will be sourced from [CoinMarketCap](https://www.coinmarketcap.com) or [CoinGecko](https://www.coingecko.com).
+   - Data on the daily closing price of Bitcoin will be sourced from [CoinMarketCap](https://www.coinmarketcap.com) [https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
+
 
 2. **Solana Price (SOL):**
-   - Data on the daily closing price of Solana will be gathered from [CoinMarketCap](https://www.coinmarketcap.com) or [CoinGecko](https://www.coingecko.com).
+   - Data on the daily closing price of Solana will be gathered from [CoinMarketCap](https://www.coinmarketcap.com) [https://www.kaggle.com/datasets/gokberkkozak/solana-price-history-sol-usd)
 
 3. **Meme Coin Market Capitalization:**
-   - The daily market capitalization of the top three meme coins (DOGE, SHIB, PEPE) will be retrieved from [CoinMarketCap](https://www.coinmarketcap.com) or [CoinGecko](https://www.coingecko.com).
+   - The daily market capitalization of the top three meme coins (DOGE, SHIB, PEPE) will be retrieved from [CoinMarketCap](https://www.coinmarketcap.com) or [CoinGecko](https://www.coingecko.com) https://www.kaggle.com/datasets/deepshah16/meme-cryptocurrency-historical-data.
 
 ### Data Points to be Collected:
 - **Bitcoin (BTC) Price:** Daily closing price (USD).
